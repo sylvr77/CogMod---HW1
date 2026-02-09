@@ -11,3 +11,4 @@ COGNITIVE MODELING - COGS 4210 - 01
 
 
 this is for a mock conflict
+merge conflcit??
